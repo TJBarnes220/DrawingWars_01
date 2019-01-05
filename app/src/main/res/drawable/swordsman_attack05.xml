@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/swordsman_02"
+        android:duration="300"/>
+
+    <item android:drawable="@drawable/swordsman_35"
+        android:duration="200"/>
+
+    <item android:drawable="@drawable/swordsman_31"
+        android:duration="200"/>
+    <item android:drawable="@drawable/swordsman_32"
+        android:duration="100"/>
+    <item android:drawable="@drawable/swordsman_36"
+        android:duration="50"/>
+    <item android:drawable="@drawable/swordsman_33"
+        android:duration="400"/>
+
+    <item android:drawable="@drawable/swordsman_34"
+        android:duration="600"/>
+
+    <item android:drawable="@drawable/swordsman_35"
+        android:duration="200"/>
+
+    <item android:drawable="@drawable/swordsman_02"
+        android:duration="300"/>
+
+
+
+</animation-list>

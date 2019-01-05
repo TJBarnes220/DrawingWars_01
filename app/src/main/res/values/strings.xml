@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BattleDisplay</string>
+    <string name="linkImage">Link</string>
+    <string name="foxImage">Fox</string>
+    <string name="selected">Headshot</string>
+    <string name="actionImage">Action</string>
+    <string name="turn">End Turn</string>
+    <string name="startBtn">Start</string>
+    <string name="tutorialBtn">Tutorial</string>
+    <string name="settingsBtn">Settings</string>
+    <string name="title">Drawing Wars</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+</resources>

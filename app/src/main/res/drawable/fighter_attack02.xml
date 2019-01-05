@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/fighter_02"
+        android:duration="100"/>
+    <item android:drawable="@drawable/fighter_21"
+        android:duration="100"/>
+    <item android:drawable="@drawable/fighter_22"
+        android:duration="100"/>
+    <item android:drawable="@drawable/fighter_23"
+        android:duration="200"/>
+    <item android:drawable="@drawable/fighter_24"
+        android:duration="100"/>
+    <item android:drawable="@drawable/fighter_25"
+        android:duration="100"/>
+    <item android:drawable="@drawable/fighter_26"
+        android:duration="200"/>
+    <item android:drawable="@drawable/fighter_27"
+        android:duration="100"/>
+    <item android:drawable="@drawable/fighter_02"
+        android:duration="100"/>
+
+</animation-list>
